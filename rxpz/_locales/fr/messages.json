@@ -1,1 +1,19 @@
-{"rxpzcheck_name":{"message":"V\u00e9rificateur de messages RuxPizza"},"rxpzcheck_description":{"message":"Affiche le nombre de messages non lus sur le discourse de RuxPizza. Vous avez \u00e9galement la possibilit\u00e9 de cliquer sur ce bouton pour ouvrir ce dernier."},"rxpzcheck_node_error":{"message":"Erreur\u00a0: flux r\u00e9cup\u00e9r\u00e9, mais aucun n\u0153ud &lt;fullcount&gt; trouv\u00e9"},"rxpzcheck_exception":{"message":"exception\u00a0: $1","placeholders":{"1":{"content":"$1"}}}}
+{
+    "rxpzcheck_name": {
+	"message":"V\u00e9rificateur de messages RuxPizza"
+    },
+    "rxpzcheck_description": {
+	"message":"Affiche le nombre de messages non lus sur le discourse de Rux-Pizza. Vous avez \u00e9galement la possibilit\u00e9 de cliquer sur ce bouton pour ouvrir ce dernier."
+    },
+    "rxpzcheck_node_error": {
+	"message":"Erreur\u00a0: flux r\u00e9cup\u00e9r\u00e9, mais aucun n\u0153ud &lt;fullcount&gt; trouv\u00e9"
+    },
+    "rxpzcheck_exception": {
+	"message":"exception\u00a0: $1",
+	"placeholders": {
+	    "1": {
+		"content":"$1"
+	    }
+	}
+    }
+}
