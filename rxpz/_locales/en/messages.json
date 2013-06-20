@@ -1,0 +1,1 @@
+{"rxpzcheck_name":{"message":"RXPZ Message Checker"},"rxpzcheck_description":{"message":"Displays the number of unread messages on Ruxpizza Discourse. You can also click the button to open it"},"rxpzcheck_node_error":{"message":"Error: feed retrieved, but no &lt;fullcount&gt; node found"},"rxpzcheck_exception":{"message":"exception: $1","placeholders":{"1":{"content":"$1"}}}}
